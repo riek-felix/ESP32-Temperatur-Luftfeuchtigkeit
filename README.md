@@ -11,11 +11,10 @@ In diesem Projekt lernst du, wie du mit einem **ESP32**, einem **DHT11-Temperatu
 - **OLED-Display** (SSD1306, I²C)
 - **Jumper-Kabel**
 - **Breadboard**
-- **10 kΩ Pullup-Widerstand** (für den DHT11)
 
 ---
 
-## **Verkabelung**
+## **Schritt 1: Verkabelung**
 
 ### **DHT11/ DTH22 Sensor**
 
@@ -46,7 +45,7 @@ Hier ist ein Beispiel für die Verkabelung:
 
 ---
 
-## **Bibliotheken installieren**
+## **Schritt 2: Bibliotheken installieren**
 
 1. Öffne die **Arduino IDE**.
 2. Gehe zu **Sketch → Bibliothek einbinden → Bibliotheken verwalten**.
@@ -56,3 +55,20 @@ Hier ist ein Beispiel für die Verkabelung:
    - **DHT sensor library**
 
 ---
+
+## **Schritt 3:Code**
+Lade den Code herunter oder kopiere ihn in deine Arduino IDE
+
+---
+
+## **Schritt 4:Code hochladen**
+1. Schließe deinen ESP32 über ein USB-Kabel an deinen Computer an.
+2. Wähle in der Arduino IDE unter **Tools** --> **Board** --> **ESP32 Dev Module** aus
+3. Wähle den richtigen Port aus.
+4. Lade den Code auf den ESP32 hoch.
+
+---
+
+## **Schritt 5: Messwerte anzeigen**
+   -Die gemessene Temperatur und Luftfeuchtigkeit werden auf dem OLED-Display angezeigt. 
+   -Die gleichen Werte werden auch im seriellen Monitor der Arduino IDE ausgegeben (Baudrate: 115200)
