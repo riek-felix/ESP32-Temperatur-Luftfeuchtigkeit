@@ -1,6 +1,6 @@
 # **ESP32 Temperatur- und Luftfeuchtigkeitsanzeige mit DHT11**
 
-In diesem Projekt lernst du, wie du mit einem **ESP32**, einem **DHT11-Temperatur- und Luftfeuchtigkeitssensor** und einem **OLED-Display** (SSD1306) eine Anzeige für Temperatur und Luftfeuchtigkeit baust.
+Temperatur- und Luftfeuchtigkeitsanzeige mithilfe eines DTH11/ DTH22 und einem OLED-Display (SSD1306).
 
 ---
 
