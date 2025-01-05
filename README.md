@@ -70,5 +70,5 @@ Lade den Code herunter oder kopiere ihn in deine Arduino IDE
 ---
 
 ## **Schritt 5: Messwerte anzeigen**
-   -Die gemessene Temperatur und Luftfeuchtigkeit werden auf dem OLED-Display angezeigt. 
-   -Die gleichen Werte werden auch im seriellen Monitor der Arduino IDE ausgegeben (Baudrate: 115200)
+1. Die gemessene Temperatur und Luftfeuchtigkeit werden auf dem OLED-Display angezeigt. 
+2. Die gleichen Werte werden auch im seriellen Monitor der Arduino IDE ausgegeben (Baudrate: 115200)
