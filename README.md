@@ -37,14 +37,6 @@ In diesem Projekt lernst du, wie du mit einem **ESP32**, einem **DHT11-Temperatu
 
 ---
 
-## **Schaltplan**
-
-Hier ist ein Beispiel für die Verkabelung:
-
-![Schaltplan](INSERT-YOUR-IMAGE-LINK-HERE)
-
----
-
 ## **Schritt 2: Bibliotheken installieren**
 
 1. Öffne die **Arduino IDE**.
