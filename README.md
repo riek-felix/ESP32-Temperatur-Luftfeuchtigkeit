@@ -49,7 +49,7 @@ Temperatur- und Luftfeuchtigkeitsanzeige mithilfe eines DTH11/ DTH22 und einem O
 ---
 
 ## **Schritt 3:Code**
-Lade den Code [https://github.com/riek-felix/ESP32-Temperatur-Luftfeuchtigkeit/blob/main/esp32_temp_luftf.ino](esp32_temp_luftf.ino) herunter oder kopiere ihn in deine Arduino IDE
+Lade den Code [esp32_temp_luftf.ino] (https://github.com/riek-felix/ESP32-Temperatur-Luftfeuchtigkeit/blob/main/esp32_temp_luftf.ino) herunter oder kopiere ihn in deine Arduino IDE
 
 ---
 
