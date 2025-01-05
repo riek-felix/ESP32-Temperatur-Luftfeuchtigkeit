@@ -17,7 +17,7 @@ In diesem Projekt lernst du, wie du mit einem **ESP32**, einem **DHT11-Temperatu
 
 ## **Verkabelung**
 
-### **DHT11 Sensor**
+### **DHT11/ DTH22 Sensor**
 
 | **DHT11 Pin** | **ESP32 Pin**  |
 |---------------|----------------|
